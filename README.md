@@ -60,8 +60,7 @@ Lancer le projet
 Accéder à : http://localhost/PFA_GUIDE_US/ dans ton navigateur
 
 📂 Structure du projet
-arduino
-Copier le code
+```arduino
 PFA_GUIDE_US/
 ├─ assets/
 │  ├─ css/
@@ -72,9 +71,11 @@ PFA_GUIDE_US/
 ├─ config.php
 ├─ README.md
 └─ .gitignore
-🌍 À propos de moi
-👩‍🎓 Junior Developer | Web & PHP | Angular, Flutter & Spring Boot
-⚡ Passionnée par le développement de plateformes utiles pour étudiants et entreprises
-📫 Contact : khadijagrira143@gmail.com
+
+```
+- 🌍 À propos de moi
+- 👩‍🎓 Junior Developer | Web & PHP | Angular, Flutter & Spring Boot
+- ⚡ Passionnée par le développement de plateformes utiles pour étudiants et entreprises
+- 📫 Contact : khadijagrira143@gmail.com
 
 ⭐ Découvrez mes autres projets sur GitHub : https://github.com/siwar-git
